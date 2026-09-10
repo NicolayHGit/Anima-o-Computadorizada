@@ -34,6 +34,17 @@
 # Jetbrains Rider personal-layer settings
 *.DotSettings.user
 
+# =========================================================================
+# WebGL Specific Ignores
+# =========================================================================
+# If you output your WebGL builds inside a folder named "Builds" or "Build", 
+# the rules above already cover it. However, if you use a custom folder name 
+# like "WebGLBuild", uncomment and update the line below:
+# /WebGLBuild/
+
+# Ignore temporary WebGL Publisher assets / caching
+/[Aa]sets/WebGLPublisher/
+
 # Visual Studio cache directory
 .vs/
 
