@@ -1,0 +1,27 @@
+Trajectoria Curva Parametrica
+
+Equipe
+Nicolay Hoff
+
+Descrição do Projeto
+Este jogo foi desenvolvido como parte da disciplina Animação Computadorizada com o objetivo de criar trajetoria parametricas. O jogador visualiza os pontos de controle podendo mexer neles e trocar entra linha ou curva de bezrier.
+
+Estrutura do Projeto
+
+Arquivo	Descrição
+ControlPoint.cs	Gerencia o ponto com ações de mouse.
+GameManager.cs	Controla a lógica principal do jogo transitando entra linha para curva.
+Curve.cs Conforme exemplo contem logica que se separa de linha e curva para calcuar através de pontos de controle.
+
+Informações Técnicas
+Engine: Unity 60000.0.60f1
+Linguagem: C#
+Dependências: TextMeshPro
+Plataforma-alvo: WebGL e Windows
+
+Checklist de Requisitos
+ Calculo de trajetórias
+ Checagem de interação com cliques do mouse ou comando do jogador
+ 
+Link para a Build
+  https://khotaro.itch.io/trajetria-com-curva-paramtrica
