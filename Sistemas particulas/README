@@ -1,0 +1,4 @@
+Criei 3 sistemas de particulas, mudando cores, posições, shapes
+1 - Fast Bullet like: Usando shape cone com particulas vermelhas com velocidade alta mas abertura do cone baixa e 2 segundos de duração de vida, tentei adicionar trails a eles, porem nao ficou muito bom no teste, É possivel no projeto dar restart no ciclo apertando D
+2 - Spark like: usando com azul e shape redondo, jogo as particulas para todas as direções, porem aplico gravidades nelas, ideia seria particulas quase comportando como de uma lampada queimada em jogos, como faiscas.
+3 - Fog Like: Inicialmente era para ser um efeito de fog mas ficou parecido com o primeiro, troquei cor para verde e experimentei o shape donut, aplicando rotação nele tanto no componente, quanto em codigo, um em X e outro em Z, Ciclo pode ser interompido com a tecla A
