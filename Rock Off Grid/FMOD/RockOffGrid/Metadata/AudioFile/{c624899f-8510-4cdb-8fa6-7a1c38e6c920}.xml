@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c624899f-8510-4cdb-8fa6-7a1c38e6c920}">
+		<property name="assetPath">
+			<value>rock off grid level 2 edit 1.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>56.951999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7b42a233-a0ef-4448-8066-ffe5a25ecbed}</destination>
+		</relationship>
+	</object>
+</objects>

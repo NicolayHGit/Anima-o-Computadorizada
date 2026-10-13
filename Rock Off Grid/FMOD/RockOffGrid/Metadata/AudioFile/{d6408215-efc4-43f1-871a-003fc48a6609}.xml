@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d6408215-efc4-43f1-871a-003fc48a6609}">
+		<property name="assetPath">
+			<value>528262__magnuswaker__silenced-shot.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.29090624999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7b42a233-a0ef-4448-8066-ffe5a25ecbed}</destination>
+		</relationship>
+	</object>
+</objects>

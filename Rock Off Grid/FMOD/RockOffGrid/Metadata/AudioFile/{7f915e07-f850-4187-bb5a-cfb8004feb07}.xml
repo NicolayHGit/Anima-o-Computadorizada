@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{7f915e07-f850-4187-bb5a-cfb8004feb07}">
+		<property name="assetPath">
+			<value>446279__pedro_hgo__drums_rock_basic_120bpm.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16.385354166666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7b42a233-a0ef-4448-8066-ffe5a25ecbed}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,1216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9209231856162650227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Skills/Slash
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Skills/Slash
+  Guid:
+    Data1: 471714572
+    Data2: 1084206102
+    Data3: 2079020454
+    Data4: -1681472695
+  Banks:
+  - {fileID: -5729395638841300599}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 1333399875211093006}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-9202207451681250963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient/3. AmbientUrban (Rafael)
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient/3. AmbientUrban (Rafael)
+  Guid:
+    Data1: 264067251
+    Data2: 1101672176
+    Data3: 867437993
+    Data4: 90194338
+  Banks:
+  - {fileID: 121114412747081407}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 636360
+--- !u!114 &-9127679039800763816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Other/CutsceneGeneric
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Other/CutsceneGeneric
+  Guid:
+    Data1: -2006505433
+    Data2: 1289398272
+    Data3: -1439813210
+    Data4: 315831103
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 121939
+--- !u!114 &-8837698315906889602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.assets.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD/Desktop/Music.assets.bank
+  Name: Music.assets
+  StudioPath: bank:/Music.assets
+  lastModified: 639232610336685473
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-8695165704824157745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Other/CutsceneLose
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Other/CutsceneLose
+  Guid:
+    Data1: 48735989
+    Data2: 1216770936
+    Data3: 1382276772
+    Data4: 1750424687
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 138866
+--- !u!114 &-8380551120528992486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Eduardo/01. Eduardo Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Eduardo/01. Eduardo Music
+  Guid:
+    Data1: 324288094
+    Data2: 1324145396
+    Data3: 870391950
+    Data4: -1081406535
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 153182
+--- !u!114 &-8027441425449390107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient/1. AmbientFarm (Eduardo)
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient/1. AmbientFarm (Eduardo)
+  Guid:
+    Data1: -424684017
+    Data2: 1301385768
+    Data3: -149405772
+    Data4: 1566066734
+  Banks:
+  - {fileID: 121114412747081407}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 428784
+--- !u!114 &-7380129240929369043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Stygia/IntensityL
+  m_EditorClassIdentifier: 
+  Name: IntensityL
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 0
+  ID:
+    data1: 4019520088
+    data2: 1244987863
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-6307863472711322345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 639146201479930340
+  FileSizes:
+  - Name: 
+    Value: 1530
+  Exists: 1
+--- !u!114 &-5729395638841300599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD/Desktop/SFX.bank
+  Name: SFX
+  StudioPath: bank:/SFX
+  lastModified: 639116180640324406
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-4473556671610534394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/RoG
+  m_EditorClassIdentifier: 
+  Path: event:/Music/RoG
+  Guid:
+    Data1: 234014405
+    Data2: 1183116190
+    Data3: -112027232
+    Data4: 2040752105
+  Banks:
+  - {fileID: 3992454103024145921}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: 2083730668224876924}
+  - {fileID: 760422925852947158}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 56952
+--- !u!114 &-4201717149869915549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.assets.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD/Desktop/Master.assets.bank
+  Name: Master.assets
+  StudioPath: bank:/Master.assets
+  lastModified: 639146201479915302
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-3820660292777826776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Eduardo/02. Eduardo Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Eduardo/02. Eduardo Music
+  Guid:
+    Data1: -996671258
+    Data2: 1300494622
+    Data3: -546288224
+    Data4: 1560957147
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 128208
+--- !u!114 &-3763072922187001409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Tiago/03. Tiago Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Tiago/03. Tiago Music
+  Guid:
+    Data1: -248131457
+    Data2: 1317040389
+    Data3: 1455927442
+    Data4: -388653345
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 149368
+--- !u!114 &-2931511039421734976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Menu
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Menu
+  Guid:
+    Data1: 41447290
+    Data2: 1233929499
+    Data3: 639117
+    Data4: 1536351889
+  Banks:
+  - {fileID: 3992454103024145921}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16385
+--- !u!114 &-2851106410572630575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Other/Classroom
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Other/Classroom
+  Guid:
+    Data1: 250973947
+    Data2: 1194023518
+    Data3: 1135330225
+    Data4: 662124486
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 559908
+--- !u!114 &-2469123686147845117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Stygia
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Stygia
+  Guid:
+    Data1: -1176603467
+    Data2: 1168288589
+    Data3: 1118422167
+    Data4: -626830052
+  Banks:
+  - {fileID: 3992454103024145921}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -7380129240929369043}
+  - {fileID: 973272243745901422}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 366341
+--- !u!114 &-1528555271388036913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 639146201479915302
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-659035502210546138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: ../We-Got-Hacked/UnityProject/FMOD/Build/Desktop/Music.bank
+  Name: Music
+  StudioPath: bank:/Music
+  lastModified: 639100346496646333
+  FileSizes:
+  - Name: Desktop
+    Value: 49592352
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -6307863472711322345}
+  - {fileID: -4201717149869915549}
+  - {fileID: -1528555271388036913}
+  - {fileID: -8837698315906889602}
+  - {fileID: 3992454103024145921}
+  - {fileID: 6327108032659793052}
+  - {fileID: -5729395638841300599}
+  EditorEvents:
+  - {fileID: -2931511039421734976}
+  - {fileID: -2469123686147845117}
+  - {fileID: 678711510364568357}
+  - {fileID: -9209231856162650227}
+  - {fileID: 6713535276664387638}
+  - {fileID: 6085087026612457590}
+  - {fileID: -4473556671610534394}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -1528555271388036913}
+  StringsBanks:
+  - {fileID: -6307863472711322345}
+  cacheVersion: 131858
+  cacheTime: 639232610336685473
+  SerializableEventsDict:
+  - key: event:/Music/Menu
+    index: 0
+  - key: event:/Music/Stygia
+    index: 1
+  - key: event:/SFX/Skills/Explosion
+    index: 2
+  - key: event:/SFX/Skills/Slash
+    index: 3
+  - key: event:/SFX/Skills/Shot
+    index: 4
+  - key: event:/SFX/Skills/Shield
+    index: 5
+  - key: event:/Music/RoG
+    index: 6
+--- !u!114 &121114412747081407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Ambient.bank
+  m_EditorClassIdentifier: 
+  Path: ../We-Got-Hacked/UnityProject/FMOD/Build/Desktop/Ambient.bank
+  Name: Ambient
+  StudioPath: bank:/Ambient
+  lastModified: 639100346493774413
+  FileSizes:
+  - Name: Desktop
+    Value: 12327936
+  Exists: 1
+--- !u!114 &269944911054759561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Other/MainMenu
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Other/MainMenu
+  Guid:
+    Data1: 762476911
+    Data2: 1254127991
+    Data3: 1097308835
+    Data4: -1264272957
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 205035
+--- !u!114 &678711510364568357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Skills/Explosion
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Skills/Explosion
+  Guid:
+    Data1: -1200947710
+    Data2: 1324668308
+    Data3: -750356300
+    Data4: -984239720
+  Banks:
+  - {fileID: -5729395638841300599}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 8386089865319221524}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &760422925852947158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/RoG/IntensityL
+  m_EditorClassIdentifier: 
+  Name: IntensityL
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 0
+  ID:
+    data1: 4019520088
+    data2: 1244987863
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &973272243745901422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Stygia/IntensityR
+  m_EditorClassIdentifier: 
+  Name: IntensityR
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 0
+  ID:
+    data1: 13996491
+    data2: 2609756580
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1150899687667780250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Raquel/02. Raquel Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Raquel/02. Raquel Music
+  Guid:
+    Data1: 554265792
+    Data2: 1186051251
+    Data3: -1580267872
+    Data4: 1525021363
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 163239
+--- !u!114 &1269403731271901202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Rafael/04. Rafael Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Rafael/04. Rafael Music
+  Guid:
+    Data1: -852944539
+    Data2: 1250715552
+    Data3: -287278933
+    Data4: 1063568783
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 136724
+--- !u!114 &1333399875211093006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Slash/Pitch
+  m_EditorClassIdentifier: 
+  Name: Pitch
+  StudioPath: 
+  Min: 0.9
+  Max: 1.1
+  Default: 1
+  ID:
+    data1: 4059433482
+    data2: 4065195108
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2083730668224876924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/RoG/IntensityR
+  m_EditorClassIdentifier: 
+  Name: IntensityR
+  StudioPath: 
+  Min: 0
+  Max: 4
+  Default: 0
+  ID:
+    data1: 13996491
+    data2: 2609756580
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2489862841292849414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Tiago/02. Tiago Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Tiago/02. Tiago Music
+  Guid:
+    Data1: -1171312951
+    Data2: 1189531496
+    Data3: 1673819326
+    Data4: 708912413
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 154122
+--- !u!114 &3718312824871041658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Other/WarRoom
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Other/WarRoom
+  Guid:
+    Data1: -1103396348
+    Data2: 1273857562
+    Data3: -738327654
+    Data4: -139515885
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 177920
+--- !u!114 &3992454103024145921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD/Desktop/Music.bank
+  Name: Music
+  StudioPath: bank:/Music
+  lastModified: 639232610335937012
+  FileSizes: []
+  Exists: 1
+--- !u!114 &4843942308178016276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Rafael/01. Rafael Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Rafael/01. Rafael Music
+  Guid:
+    Data1: -1451670184
+    Data2: 1115228772
+    Data3: 1113598092
+    Data4: -130381920
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 118439
+--- !u!114 &5270158143208318821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Shield/Pitch
+  m_EditorClassIdentifier: 
+  Name: Pitch
+  StudioPath: 
+  Min: 0.9
+  Max: 1.1
+  Default: 1
+  ID:
+    data1: 4059433482
+    data2: 4065195108
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5765907505916815674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Rafael/02. Rafael Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Rafael/02. Rafael Music
+  Guid:
+    Data1: 497571789
+    Data2: 1259994265
+    Data3: -1629818982
+    Data4: -1505922395
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 128182
+--- !u!114 &5982225449287395932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Other/CutsceneVictory
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Other/CutsceneVictory
+  Guid:
+    Data1: 523987674
+    Data2: 1196293246
+    Data3: -1524926042
+    Data4: -1247032912
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 31686
+--- !u!114 &6029304985694330567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Raquel/01. Raquel Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Raquel/01. Raquel Music
+  Guid:
+    Data1: 237227548
+    Data2: 1180958103
+    Data3: 881759390
+    Data4: 710327172
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 94440
+--- !u!114 &6085087026612457590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Skills/Shield
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Skills/Shield
+  Guid:
+    Data1: -2144952325
+    Data2: 1262353396
+    Data3: -1216427629
+    Data4: -474176820
+  Banks:
+  - {fileID: -5729395638841300599}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 5270158143208318821}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6327108032659793052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.assets.bank
+  m_EditorClassIdentifier: 
+  Path: FMOD/Desktop/SFX.assets.bank
+  Name: SFX.assets
+  StudioPath: bank:/SFX.assets
+  lastModified: 639116180640770716
+  FileSizes: []
+  Exists: 1
+--- !u!114 &6421989822633879795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Shot/Pitch
+  m_EditorClassIdentifier: 
+  Name: Pitch
+  StudioPath: 
+  Min: 0.9
+  Max: 1.1
+  Default: 1
+  ID:
+    data1: 4059433482
+    data2: 4065195108
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6509721249645128432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Rafael/03. Rafael Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Rafael/03. Rafael Music
+  Guid:
+    Data1: 1511109519
+    Data2: 1076170714
+    Data3: -2023856199
+    Data4: 299935802
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 157178
+--- !u!114 &6713535276664387638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Skills/Shot
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Skills/Shot
+  Guid:
+    Data1: -828091737
+    Data2: 1124376144
+    Data3: -1862556257
+    Data4: 252929248
+  Banks:
+  - {fileID: -5729395638841300599}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 6421989822633879795}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7069826293056196748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Eduardo/03. Eduardo Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Eduardo/03. Eduardo Music
+  Guid:
+    Data1: -1912673634
+    Data2: 1299579384
+    Data3: -1387958118
+    Data4: 900222598
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 176718
+--- !u!114 &7188084546233190629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../We-Got-Hacked/UnityProject/FMOD/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 639100346493794401
+  FileSizes:
+  - Name: Desktop
+    Value: 1968
+  Exists: 1
+--- !u!114 &7380524080218002445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Tiago/01. Tiago Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music/Tiago/01. Tiago Music
+  Guid:
+    Data1: 1362922569
+    Data2: 1248286208
+    Data3: 1297785505
+    Data4: -1467155017
+  Banks:
+  - {fileID: -659035502210546138}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 149655
+--- !u!114 &8386089865319221524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Explosion/Pitch
+  m_EditorClassIdentifier: 
+  Name: Pitch
+  StudioPath: 
+  Min: 0.9
+  Max: 1.1
+  Default: 1
+  ID:
+    data1: 4059433482
+    data2: 4065195108
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8734069661822995914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambient/2. AmbientOffice (Tiago_Raquel)
+  m_EditorClassIdentifier: 
+  Path: event:/Ambient/2. AmbientOffice (Tiago_Raquel)
+  Guid:
+    Data1: -629565568
+    Data2: 1263054271
+    Data3: -262584942
+    Data4: -1612971635
+  Banks:
+  - {fileID: 121114412747081407}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 141864
+--- !u!114 &9072983884411361912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../We-Got-Hacked/UnityProject/FMOD/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 639100346493784406
+  FileSizes:
+  - Name: Desktop
+    Value: 1074
+  Exists: 1
