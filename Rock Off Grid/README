@@ -1,0 +1,2 @@
+Projeto pessoal misturando mecânicas de combate com jogo de ritmo.
+Ultilizando FMOD para criar faixas com valor de BPM, que aciona evento dentro de código, chamando para outras áreas como a animação de UI com batida.
